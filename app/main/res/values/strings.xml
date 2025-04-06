@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chess</string>
+    <string name="resume_previous_game">RESUME PREVIOUS GAME</string>
+    <string name="start_new_game">START NEW GAME</string>
+    <string name="madeBy">\@Viktoria Stefanova 379220; TU Plovdiv, CST</string>
+    <string name="chess_game">CHESS GAME</string>
+</resources>
